@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## How to clone
+git clone git@github.com:kipkemoibenard/triplets-in-array.git
+cd triplets-in-array
+code .
+in terminal do `npm i`
+run using `ng serve`
+
