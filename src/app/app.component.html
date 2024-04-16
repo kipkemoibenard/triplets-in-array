@@ -1,0 +1,11 @@
+<h1>Input array values separated by a comma</h1>
+<div style="padding: 20px;">
+  <form [formGroup]="arrayForm">
+    Array:<input type="text" formControlName="arrayListzzz" />&nbsp;
+    Sum:<input type="number" formControlName="givenSum" />
+  </form><br>
+  <button (click)="submit()">Submit</button><br>
+  <div>Triplet: {{ tripletFound }}</div>
+</div>
+
+<router-outlet></router-outlet>
