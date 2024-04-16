@@ -28,8 +28,16 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## How to clone
 git clone git@github.com:kipkemoibenard/triplets-in-array.git
+
+## Navigate to project
 cd triplets-in-array
+
+## Open editor
 code .
+
+## Open Teminal and install node modules
 in terminal do `npm i`
+
+## run project
 run using `ng serve`
 
